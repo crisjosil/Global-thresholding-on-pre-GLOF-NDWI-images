@@ -6,3 +6,7 @@ Applying Tiled-thresholding for detection of Glacial Lake Outburst Flood (GLOF) 
 
 
 ![alt text](https://github.com/crisjosil/Global-thresholding-on-pre-GLOF-NDWI-images/blob/master/GLOF_NDWI.PNG?raw=true)
+
+<p align="center">
+  <img src="https://github.com/crisjosil/Global-thresholding-on-pre-GLOF-NDWI-images/blob/master/GLOF_NDWI.PNG?raw=true" width="350" title="S2-based Glacial Lake Ouburst Detection">
+</p>
