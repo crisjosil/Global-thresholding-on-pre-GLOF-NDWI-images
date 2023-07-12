@@ -1,4 +1,4 @@
-# Global-thresholding-on-pre-GLOF-NDWI-images
+# Glacial Lake Outburst Floods (GLOF) in Pakistan from Sentinel-2
 Utilising Tiled-thresholding for detection of Glacial Lake Outburst Floods (GLOF) in Pakistan from Sentinel-2 based NDWI index.
 - A large image normally contains complex statistics making more the selection of appropiate thredholds.
 - To address this, a large image can be divided into subtiles and a procedure can be followed to identify the subtiles that provide the more clear separation between classes, in this case, land and water. 
